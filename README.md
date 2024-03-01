@@ -19,6 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 ## links de Referencia 
 - https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
+- https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
 - Arias Suarez Demian Alexander a.21308051280315@cbtis128.edu.mx
 ## Capturas del Resultado
 - ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/6d2da316-9cd8-43bf-88e5-614c39c3dff6)
@@ -26,4 +27,9 @@ samples, guidance on mobile development, and a full API reference.
 - ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/eb13a570-6c9b-4551-83af-097a31abbd90)
 
 - 
+## Capturas del resultado (ACTUALIZADO) 
+- ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/1e12ae4c-6ba5-47ed-89d5-0a1c6d1b8839)
+- ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/29481203-fb55-438a-bcd0-b8f4d0e173f4)
+
+
 
