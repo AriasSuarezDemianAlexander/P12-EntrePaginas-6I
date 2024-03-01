@@ -20,6 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 ## links de Referencia 
 - https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
 - https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
+- https://www.codigocorrecto.com/flutter/35-plantillas-gratis-de-aplicaciones-con-flutter/#google_vignette
 - Arias Suarez Demian Alexander a.21308051280315@cbtis128.edu.mx
 ## Capturas del Resultado
 - ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/6d2da316-9cd8-43bf-88e5-614c39c3dff6)
@@ -28,8 +29,10 @@ samples, guidance on mobile development, and a full API reference.
 
 - 
 ## Capturas del resultado (ACTUALIZADO) 
-- ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/1e12ae4c-6ba5-47ed-89d5-0a1c6d1b8839)
-- ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/29481203-fb55-438a-bcd0-b8f4d0e173f4)
+- ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/a70127f6-7d18-4b25-a4c6-2508691429da)
+
+- ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/a53241c6-a81e-4bea-8796-a29aea0217d3)
+
 
 
 
