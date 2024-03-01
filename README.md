@@ -21,6 +21,9 @@ samples, guidance on mobile development, and a full API reference.
 - https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
 - https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
 - https://www.codigocorrecto.com/flutter/35-plantillas-gratis-de-aplicaciones-con-flutter/#google_vignette
+- https://www.desarrollolibre.net/blog/flutter/los-widgets-de-los-botones-en-flutter-raised-flat-material-icon-y-floating-action
+- https://codea.app/blog/botones-en-flutter
+- 
 - Arias Suarez Demian Alexander a.21308051280315@cbtis128.edu.mx
 ## Capturas del Resultado
 - ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/6d2da316-9cd8-43bf-88e5-614c39c3dff6)
