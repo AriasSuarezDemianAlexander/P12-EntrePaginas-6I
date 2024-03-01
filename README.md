@@ -23,6 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 - https://www.codigocorrecto.com/flutter/35-plantillas-gratis-de-aplicaciones-con-flutter/#google_vignette
 - https://www.desarrollolibre.net/blog/flutter/los-widgets-de-los-botones-en-flutter-raised-flat-material-icon-y-floating-action
 - https://codea.app/blog/botones-en-flutter
+- https://googleflutter.com/flutter-text-color/
 - 
 - Arias Suarez Demian Alexander a.21308051280315@cbtis128.edu.mx
 ## Capturas del Resultado
