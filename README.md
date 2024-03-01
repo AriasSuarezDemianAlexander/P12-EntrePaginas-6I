@@ -23,6 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Capturas del Resultado
 - ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/6d2da316-9cd8-43bf-88e5-614c39c3dff6)
 
-- ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/51c448e0-1310-4feb-9dc7-4471a0732794)
+- ![image](https://github.com/AriasSuarezDemianAlexander/P12-EntrePaginas-6I/assets/143743142/eb13a570-6c9b-4551-83af-097a31abbd90)
+
 - 
 
